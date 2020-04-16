@@ -2,15 +2,11 @@
 
 ### This project is adapted and show case how to handle MaskRCNN for 2 classes
 ### It demonstrate the use of the following main tools:
-- library imgaug
-- opencv
-- tensorflow 1.14
-- keras 2.2.4
+- library imgaug, opencv
+- tensorflow 1.14, keras 2.2.4
 - skimage
-- matplotlib
-- scipy
-- logging, shutil, warnings, re
-- json
+- matplotlib, numpy, scipy
+- logging, shutil, warnings, re, json
 
 ### Prepare the data images using the online tool: 
 - #### Tool Name:  VGG Image Annotator 
