@@ -56,7 +56,7 @@ class WorkToolConfig(Config):
     # Number of training steps per epoch
     STEPS_PER_EPOCH = 100
 
-    # Skip detections with < 90% confidence
+    # Skip detections with < 70% confidence
     DETECTION_MIN_CONFIDENCE = 0.7
 
     MINI_MASK_SHAPE = (640, 640)
