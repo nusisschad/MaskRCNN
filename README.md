@@ -17,6 +17,8 @@
 - Tool Name:        library imgaug
 - Jupyter Notebook: image_augmentation.ipynb
 
+![](https://github.com/nusisschad/MaskRCNN/blob/master/augmentation/image_augmentation.ipynb)
+
 ### The model weights required are:
 - File:  	mask_rcnn_coco.h5:   
 Link:	https://drive.google.com/file/d/1bjypFhACIiwSacWv_LN-DPEwrnEYMaH_/view?usp=sharing
