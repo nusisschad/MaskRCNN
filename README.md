@@ -24,4 +24,4 @@ Link:	https://drive.google.com/file/d/1bjypFhACIiwSacWv_LN-DPEwrnEYMaH_/view?usp
 - File: 	mask_rcnn_worktool.h5   
 Link:	https://drive.google.com/file/d/1xsmboTiwzKr5gpoD6QrOqpEyMZJYP4WH/view?usp=sharing
 
-![](image/result.png)
+![](image/result.jpg)
