@@ -31,10 +31,10 @@ Link:	https://drive.google.com/file/d/1xsmboTiwzKr5gpoD6QrOqpEyMZJYP4WH/view?usp
 - Open the jupyter notebook file "train_worktool_model_colab.ipynb" in Google Colab
 - Run the scripts to create the model
 
-### To check the dataset you have prepared, open the jupyter notebook:
+#### To check the dataset you have prepared, open the jupyter notebook:
 - inspect_worktool_data.ipynb
 
-### To test your trained model open the jupyter notebook:
+#### To test your trained model open the jupyter notebook:
 - inspect_worktool_model.ipynb
 
 ![](image/result.jpg)
