@@ -24,6 +24,10 @@ Link:	https://drive.google.com/file/d/1bjypFhACIiwSacWv_LN-DPEwrnEYMaH_/view?usp
 - File: 	mask_rcnn_worktool.h5   
 Link:	https://drive.google.com/file/d/1xsmboTiwzKr5gpoD6QrOqpEyMZJYP4WH/view?usp=sharing
 
+- File: 	mask_rcnn_worktool_v2.h5   
+Link:	https://drive.google.com/file/d/1me5Ig0UCFx-4t_ylPgsD0qppqwNhz4l7/view?usp=sharing   
+Version 2 model is improved with some hyperparameters adjustments and with using imgaug library during training 
+
 ### Train the Mask-RCNN model with Google's Colab tool:
 #### Steps:
 - Upload the folder structure into your google drive, make sure the root folder is VSE/CA1
