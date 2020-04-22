@@ -40,7 +40,7 @@ Version 2 model is improved with some hyper-parameters adjustments and with usin
 #### Train the Mask-RCNN model with Google's Colab tool:
 #### Steps:
 - Upload this github folder structure (contents of MaskRCNN) into your google drive, make sure the root folder is VSE/CA1
-- Download the coco model weights file [mask_rcnn_coco.h5])(https://drive.google.com/file/d/1bjypFhACIiwSacWv_LN-DPEwrnEYMaH_/view?usp=sharing) and upload it to VSE/CA1
+- Download the coco model weights file [mask_rcnn_coco.h5](https://drive.google.com/file/d/1bjypFhACIiwSacWv_LN-DPEwrnEYMaH_/view?usp=sharing) and upload it to VSE/CA1
 - Open the jupyter notebook file "train_worktool_model_colab.ipynb" in Google Colab
 - Run the scripts to create the model
 
