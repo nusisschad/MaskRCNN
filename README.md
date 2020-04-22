@@ -26,7 +26,7 @@ Link:	https://drive.google.com/file/d/1_Xqaq5vrySeGGvUAJB17ulRaRkNJiZD2/view?usp
 
 - File: 	mask_rcnn_worktool_v2.h5   
 Link:	https://drive.google.com/file/d/1me5Ig0UCFx-4t_ylPgsD0qppqwNhz4l7/view?usp=sharing   
-Version 2 model is improved with some hyper-parameters adjustments and with using imgaug library during training 
+Version 2 model is improved with some hyper-parameters adjustments and with using **imgaug library** during training 
 
 ### To check the dataset you have prepared, open the jupyter notebook:
 - inspect_worktool_data.ipynb
