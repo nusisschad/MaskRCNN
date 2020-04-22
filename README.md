@@ -1,5 +1,7 @@
 ### NUS ISS CA Project Assignment 1
-- Adapted from 
+- Team Member: Chad Ng [LinkedIn](https://www.linkedin.com/in/chad-ng-60267470/)
+- Adapted from github https://github.com/matterport/Mask_RCNN
+
 ## MaskRCNN
 
 ### This project is adapted and show case how to handle MaskRCNN for 2 classes
