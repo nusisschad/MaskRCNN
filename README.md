@@ -26,7 +26,7 @@ Link:	https://drive.google.com/file/d/1_Xqaq5vrySeGGvUAJB17ulRaRkNJiZD2/view?usp
 
 - File: 	mask_rcnn_worktool_v2.h5   
 Link:	https://drive.google.com/file/d/1me5Ig0UCFx-4t_ylPgsD0qppqwNhz4l7/view?usp=sharing   
-Version 2 model is improved with some hyperparameters adjustments and with using imgaug library during training 
+Version 2 model is improved with some hyper-parameters adjustments and with using imgaug library during training 
 
 ### To check the dataset you have prepared, open the jupyter notebook:
 - inspect_worktool_data.ipynb
@@ -38,8 +38,8 @@ Version 2 model is improved with some hyperparameters adjustments and with using
 
 #### Train the Mask-RCNN model with Google's Colab tool:
 #### Steps:
-- Upload the folder structure into your google drive, make sure the root folder is VSE/CA1
-- Download the coco model weights file "mask_rcnn_coco.h5" and upload it to VSE/CA1
+- Upload this github folder structure (contents of MaskRCNN) into your google drive, make sure the root folder is VSE/CA1
+- Download the coco model weights file "mask_rcnn_coco.h5" (*see above link*) and upload it to VSE/CA1
 - Open the jupyter notebook file "train_worktool_model_colab.ipynb" in Google Colab
 - Run the scripts to create the model
 
