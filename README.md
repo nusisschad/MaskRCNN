@@ -38,6 +38,10 @@ Version 2 model is improved with some hyperparameters adjustments and with using
 #### To check the dataset you have prepared, open the jupyter notebook:
 - inspect_worktool_data.ipynb
 
+#### To train the Mask-RCNN model for worktool dataset, open the jupyter notebook:
+- train_worktool_model_colab_v2.ipynb
+- the notebook ***train_worktool_model_colab*** is the training script with a diiferent set of configuration parameters. Use ***train_worktool_model_colab_v2.ipynb*** for better results.
+
 #### To test your trained model open the jupyter notebook:
 - inspect_worktool_model.ipynb
 
