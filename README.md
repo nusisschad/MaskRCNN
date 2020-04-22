@@ -33,7 +33,7 @@ Version 2 model is improved with some hyper-parameters adjustments and with usin
 
 
 ### To train the Mask-RCNN model for worktool dataset, open the jupyter notebook:
-- train_worktool_model_colab_v2.ipynb
+- [train_worktool_model_colab_v2.ipynb](https://github.com/nusisschad/MaskRCNN/blob/master/train_worktool_model_colab_v2.ipynb)
 - the notebook ***train_worktool_model_colab*** is the training script with a diiferent set of configuration parameters. Use ***train_worktool_model_colab_v2.ipynb*** for better results.
 
 #### Train the Mask-RCNN model with Google's Colab tool:
