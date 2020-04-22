@@ -47,3 +47,4 @@ Version 2 model is improved with some hyper-parameters adjustments and with usin
 - [inspect_worktool_model.ipynb](https://github.com/nusisschad/MaskRCNN/blob/master/inspect_worktool_model.ipynb)
 
 ![](image/result.jpg)
+![](image/mAP.jpg)
