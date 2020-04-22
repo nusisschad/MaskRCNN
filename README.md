@@ -29,7 +29,7 @@ Version 2 model is improved with some hyper-parameters adjustments and with usin
 
 
 ### To check the dataset you have prepared, open the jupyter notebook:
-- inspect_worktool_data.ipynb
+- [inspect_worktool_data.ipynb](https://github.com/nusisschad/MaskRCNN/blob/master/inspect_worktool_data.ipynb)
 
 
 ### To train the Mask-RCNN model for worktool dataset, open the jupyter notebook:
