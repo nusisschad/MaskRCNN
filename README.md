@@ -44,6 +44,6 @@ Version 2 model is improved with some hyper-parameters adjustments and with usin
 - Run the scripts to create the model
 
 ### To test your trained model open the jupyter notebook:
-- inspect_worktool_model.ipynb
+- [inspect_worktool_model.ipynb](https://github.com/nusisschad/MaskRCNN/blob/master/inspect_worktool_model.ipynb)
 
 ![](image/result.jpg)
