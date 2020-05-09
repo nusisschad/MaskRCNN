@@ -1,5 +1,5 @@
 ### NUS ISS CA Project Assignment 1
-- Contributor: [LinkedIn](https://www.linkedin.com/in/chad-ng-60267470/)
+- Contributor: Chad Ng [LinkedIn](https://www.linkedin.com/in/chad-ng-60267470/)
 - Adapted from github https://github.com/matterport/Mask_RCNN
 
 ## MaskRCNN
